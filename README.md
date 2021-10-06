@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hemant-Bhat
+- 👋 Hi, I’m Hemant Bhat
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on Web Sites
