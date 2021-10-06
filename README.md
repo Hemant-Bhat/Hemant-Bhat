@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on Web Sites
-- 📫 Reach me on mail hemantbhat2@gmail.com
+- 📫 Reach me on Instagram @hemant__bhat
 
 <!---
 Hemant-Bhat/Hemant-Bhat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
